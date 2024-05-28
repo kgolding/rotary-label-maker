@@ -2,6 +2,10 @@
 
 Simple web app to create a label for a rotary switch.
 
+# Live demo
+
+https://kgolding.github.io/rotary-label-maker/dist/
+
 # Development
 
 * `npm run dev` to run locally in dev mode
